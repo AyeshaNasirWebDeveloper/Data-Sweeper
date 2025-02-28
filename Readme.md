@@ -2,8 +2,6 @@
 
 **Data Sweeper App** is a Python-based web application built using **Streamlit**, **Pandas**, and **Plotly**. This app allows you to upload files, clean data, visualize it, and download the processed data in various formats.
 
----
-
 ## Features
 
 - **File Upload**: Upload CSV, Excel, Word, and PDF files.
@@ -19,8 +17,6 @@
   - Convert data to CSV, Excel, or JSON format.
   - Download the converted file.
 
----
-
 ## Requirements
 
 - Python 3.7 or higher
@@ -31,8 +27,6 @@
   - `PyPDF2`
   - `python-docx`
   - `plotly`
-
----
 
 ## Installation
 
