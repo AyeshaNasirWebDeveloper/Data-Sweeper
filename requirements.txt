@@ -1,0 +1,6 @@
+streamlit==1.22.0
+pandas==2.2.3
+openpyxl==3.0.10
+PyPDF2==3.0.0
+python-docx==0.8.11
+plotly==5.13.0
